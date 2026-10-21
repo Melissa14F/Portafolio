@@ -14,7 +14,7 @@ Portafolio personal de desarrollador web, construido con [Astro](https://astro.b
 | Página "Sobre mí" | `src/content/spec/about.md` |
 | Publicaciones de la página de inicio | `src/content/posts/` |
 | Foto de perfil | la de GitHub (`avatar` en `src/config.ts`) |
-| Hoja de vida descargable | `public/cv/CV_Julian_Rincon_Andrade.pdf` |
+| Hoja de vida descargable | `public/cv/Melissa_Beltran_Curriculum.pdf` |
 | Panel de administración (Decap CMS) | `public/admin/` — activación en [`cms-oauth/README.md`](cms-oauth/README.md) |
 
 ## Desarrollo
